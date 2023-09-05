@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """Print this alphabet in lowercase, and not followed by a new line.."""
 
 for letter in range(97, 123):
