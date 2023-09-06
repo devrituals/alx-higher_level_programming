@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 """Print the numberss from 1 to 100 separated by a space.
   For multiples of three, print Fizz instead of the number
   For multiples of fiive, print Buzz instead of the number..
