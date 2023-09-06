@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""
