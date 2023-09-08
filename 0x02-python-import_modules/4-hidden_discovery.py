@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""
