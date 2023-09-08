@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 
 if __name__ == "__main__":
     """Print the value of variable a from variable_load_5."""
