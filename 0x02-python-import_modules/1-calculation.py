@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 
 if __name__ == "__main__":
     """Print the sum, difference, multiple and quotient of 10 and 5."""
