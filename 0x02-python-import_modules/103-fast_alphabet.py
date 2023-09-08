@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 import string
 print(string.ascii_uppercase)
