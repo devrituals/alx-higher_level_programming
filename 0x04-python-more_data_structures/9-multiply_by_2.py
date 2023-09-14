@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 def multiply_by_2(a_dictionary):
     new_d = {}
     for i in a_dictionary:
