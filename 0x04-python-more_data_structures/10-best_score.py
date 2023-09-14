@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#AUTHOR : ABDELBAR AD
+# AUTHOR : ABDELBAR AD
 
 def best_score(a_dictionary):
     """Returns a key with the biggest integer value."""
