@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# AUTHOR : ABDELBAR AD
 
 def raise_exception_msg(message=""):
     """Raise a NameError exception with a message."""
