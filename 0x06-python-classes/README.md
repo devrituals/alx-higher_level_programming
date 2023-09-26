@@ -69,5 +69,7 @@ In this project, I began practicing object-oriented programming using classes an
   * [102-square.py](./102-square.py): Python class `Square` that defines a square. Builds on [101-square.py](./101-square.py) with:
     * Methods `__eq__`, `__ne__`, `__lt__`, `__le__`, `__gt__`, and `__ge__`, to enable usage of `Square` instances with logical operators `==`, `!=`, `<`, `<=`, `>`, and `>=`, respectively, based on the square area.
 
+
+
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode provided.
