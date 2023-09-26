@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# AUTHOR : ABDELBAR AD
 
 """Define a class Square."""
 
