@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""ABDELBAR AD"""
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
