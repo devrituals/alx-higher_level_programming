@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" ABDELBAR AD""""""Defines a function that adds attributes to objects."""
+"""ABDELBAR AD""" """Defines a function that adds attributes to objects."""
 
 
 def add_attribute(obj, att, value):
